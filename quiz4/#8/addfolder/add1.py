@@ -1,3 +1,3 @@
 def Add(q,r):
-    f=q=r
+    f=q+r
     return f
