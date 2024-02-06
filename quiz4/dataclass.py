@@ -1,3 +1,6 @@
+from dataclasses import dataclass
+
+@dataclass
 class fish:
     def __init__(self, species: str, price: float, weight: float): #$/lbs.
         self.species=species
