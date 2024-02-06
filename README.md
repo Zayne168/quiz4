@@ -1,4 +1,4 @@
-  ## test data was included for myself when testing on most files, help yourself to delete that and use your own
+  ## to view full README please download it or hit view raw
 argumnets.py:
   -spelled that way because you told us to
   -takes in a string, int, and float and parses them.
@@ -14,3 +14,4 @@ dataclass.py:
     -species,price($),weight(lbs)
     -can print the fish object
     -prints the fish object from the fish point of view.
+## test data was included for myself when testing on most files, help yourself to delete that and use your own
